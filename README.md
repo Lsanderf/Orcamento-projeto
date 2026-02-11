@@ -1,5 +1,5 @@
-Frontend -> Rect + Vite | Js | css
-.
+Frontend -> Rect + Vite | Js | css 
+
 Backend -> Java | Springboot | JPA
-.
+
 DB -> MysqlS
