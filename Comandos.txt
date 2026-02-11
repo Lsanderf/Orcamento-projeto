@@ -1,0 +1,5 @@
+Back:
+mvn spring-boot:run
+
+front:
+npm run dev
