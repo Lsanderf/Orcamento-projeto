@@ -1,4 +1,4 @@
-Frontend -> Rect + Vite | Js | css 
+Frontend -> React + Vite | Js | css 
 
 Backend -> Java | Springboot | JPA
 
